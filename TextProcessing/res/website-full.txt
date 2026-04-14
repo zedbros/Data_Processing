@@ -1,0 +1,184 @@
+Bachelor of Science (BSc) HES in Computer science and communication systems
+Extracting secrets from data
+Deployed on computers ranging in size from a few centimetres in our telephones to high-performance clusters filling entire premises, computing is everywhere and it is hard to imagine a world without it.
+
+Imagining applications, designing the architecture of computer clusters and the cloud, solving problems using algorithms and artificial intelligence models, storing, transforming and using information, developing programming languages, using software engineering : IT is a science at the service of society. It has many facets, which are covered in this Bachelor of Engineering course in Informatics and Communication Systems (ISC), a protected and recognised bachelor's degree at the heart of the digital transition, designed for a field that is constantly evolving.
+
+Vue d'ensemble
+Image
+Date of course start
+16 September 2024
+Image
+Title obtained
+Bachelor of Science in Computer science and communication systems
+Image
+Course duration
+6 semesters (full-time)
+8 semesters (part-time)
+Image
+Place of study
+Energypolis Campus Sion
+Image
+Course fees
+CHF 775.- per Semester
+Image
+Teaching language
+French | English
+Teaching
+Teaching in Computer Science and Communication Systems promotes a wealth of experience in the field. personalised learning, focused on students·e·s. In the first year, for example, support courses are offered in the IT Science, Foundations of Programming as well as Architecture modules.
+
+During your course, you will have the opportunity to get involved and learn through concrete projects responding to the needs and expectations of the professional world, particularly thanks to its professors, who are also researchers. This hands-on experience and learning close to practice will open up exciting prospects for your future career or through the possibility of continuing with a Master's degree, for example as the Master in Engineering.
+
+Flexible study options 
+To enable you to combine student life with the demands of working life as flexibly as possible, our Bachelor's degree in Computer Science and Communication Systems is now also available on a part-time basis, as follows: 
+
+Flexible timetabling: you can take advantage of fixed days per week when there are no classes. You can organise your timetable as you wish.
+Flexible timetables: no Saturday classes or long study evenings with our part-time option. All our courses finish before 6.15pm and never take place at the weekend.
+The part-time course lasts a total of 8 semesters instead of 6 full-time semesters.
+
+For those interested in joining us directly after college, we offer the opportunity to do the practical work placement in Sion during your studies, thanks to PiBS!
+
+Why choose ISC at the School of Engineering in Sion?
+The Computer Science and Communications Systems course is located on the campus Energypolis, offering state-of-the-art facilities. 
+
+At the heart of data and data processing
+For your apprenticeship, you will have modern, state-of-the-art infrastructures at your disposal, thanks to which you will be able to deploy both virtual infrastructures, implement cloud and big data techniques as well as learning algorithms.
+
+The art of programming
+The training programme is based entirely around the quality and safety implications of software development in its various facets. Your learning experience will enable you to cover multiple languages (Scala, Python, JavaScript, ...) covering multiple different paradigms. 
+
+In society and for society
+Informatics engineering has a relationship with the world and society around it and a role to play in sustainable development too. With this in mind, courses in communications, ethics and even law will help you learn about the issues surrounding digital technology and the impact of your future role.
+
+Close to business and applied research
+A great deal of work with direct links to industry and applied research institutes is offered to students·e·s during their course. This allows you to be immersed in the heart of science and development as it is practised in the real world.
+
+
+
+They talk to you about this course
+Quentin still small
+Quentin Collet : alumnus, co-founder AERO41
+PA-small
+Pierre-André Mudry : Head of the ISC degree programme
+Marta still small
+Marta Rende: student
+Amara still small
+Amara Spano: alumna, Navitas Consilium SA employee
+Common trunk
+The Bachelor's degree in Computer Science and Communication Systems equips its students, after 6 semesters of training, with the skills needed for the day-to-day practice of the job of HES computer engineer. A strong core curriculum, accounting for more than 60% of the course, provides the basic technical and organisational knowledge needed to practise your profession, whether in application development or infrastructure. During this core course, you will develop your skills in different programming methods (imprecise, object-oriented, functional, concurrent, etc.) and learn how to manage and process textual and visual information and data in a general way. You will learn how an operating system works, network communication, databases and the fundamentals of algorithmics, computer security and cryptography.
+
+Training programme and course outline
+The training is organised into different modules that fall into 5 different training areas that you can explore below
+
+You can also find the full study plan with details of the modules, teaching units, number of periods and other information in the document Plan d'études ISC 23-24.
+
+> Want to know what your courses will be like?
+
+You can find out more at ISC / Learn which brings together the various courses in the course (1st year only for the time being). You can access their descriptions and see who your future teachers will be! If you wish and have the opportunity, you can also join us on campus for a day of immersion with the Student·e for a day.
+
+Data engineering orientation
+From the 4th semester onwards, this major emphasises the principles and techniques involved in data processing through projects, applied laboratories and lectures. The concepts of machine learning, artificial intelligence, computer vision and the Internet of Things are covered in depth. Application areas are also developed, including web and mobile application development, the cloud and big data paradigms. Teamwork methods used in the industrial world (agile and DevOps approaches) are also put into practice. You will also be trained in full stack development, which will enable you to program at both back-end and front-end levels in continuous flow.
+
+Various semester options are offered during the last two semesters, allowing the curriculum to be individualised. 
+
+As a data engineer, you will master the complete chain of managing very large quantities of data (big data): collection, transport, cloud processing, storage and the process of innovation and valorisation. You will design and develop IT products and services in areas such as data analysis, machine learning, data mining and high-performance computing. This direction is offered as part of the Bachelor's degree in Informatics and Communication Systems (ISC), an engineering course at the heart of the digital transition designed for a field in perpetual evolution.
+
+Internal mobility
+Do you want to specialise in a field other than the one on offer? You have the possibility, if you wish, of doing the first 3 semesters at the Haute Ecole d'Ingénierie (HEI) and pursuing another orientation in another HES-SO establishment from the 4thème semester. Possible orientations and locations :
+
+Software computing: HEIG-VD Yverdon, HEIA-FR Fribourg
+Networks and systems: HEIG-VD Yverdon, HEIA-FR Fribourg
+Embedded-systems:  HEIG-VD Yverdon
+Computer security :   HEIG-VD Yverdon
+Bachelor's thesis
+At the end of your course, you will complete a Bachelor's thesis in conjunction with companies or research institutes. In particular, this integration work helps to facilitate their integration into the world of work The title of Bachelor of Science HES-SO is a diploma recognised by the Confederation, is eurocompatible and is legally protected. 
+
+Academic calendar
+
+Prof. Dr. Pierre-André Mudry
+
+Head of the ISC degree programme
+
+
+
++41 58 606 87 55 (direct)
+
+pierre-andre.mudry@hevs.ch
+
+
+HESSO 2022 Loèche-Les-Bains (STUDIO_54/ OLIVIER MAIRE)
+Student for a day
+DSC_4492
+Meet us
+Master engineering
+Master in Engineering
+The Bachelor of Science degree in Computer Science and Communication Systems opens the door to rich and interesting job prospects.
+In Switzerland and around the world, data engineering specialists are among the most sought-after IT profiles on the market.
+
+Graduates in Computer Science and Communication Systems find work in the industrial sector, developing intelligent IT solutions to the problems of processing and exploiting large quantities of data collected from sensors/systems/machines, as well as in the tertiary sector (banking, online commerce, etc.). He or she develops IT solutions for acquiring, storing, saving and analysing large quantities of data after defining their architectures.
+
+With this qualification, for example, you could find a job as :
+
+Data engineer in industry to optimise production processes
+Predictive maintenance specialist
+Full stack designer of web and mobile applications for a start-up company
+DevOps / DataOps engineer in a public authority or SME
+IT consultant in a services company
+IT architect in a development company
+Programmer or software architect
+Machine learning and AI engineer
+Data engineer
+Partner universities
+
+School of Engineering - Degree programme Computer science and communication systems
+Rue de l'Industrie 23
+1950 Sion
+ +41 (0) 58 606 93 60
+ info.isc@hevs.ch
+TO THE TOP
+Contact us
+News
+Events
+Student for a day
+Jobs and careers
+Guest lecturers
+Intranet
+Legal notice
+Cookies
+HES-SO
+VALAIS-WALLIS
+Presentation
+Schools
+Companies & Institutions
+Media
+DEGREE PROGRAMMES
+Visual Arts
+Business Information Technology
+Tourism
+Life Sciences Engineering
+INSTITUTES
+Visual Arts
+Sustainable Energy
+Entrepreneurship & Management
+Informatics
+Health
+Systems Engineering
+Social Work
+Life Sciences
+Tourism
+Age and intergenerational relationships research area
+Regional development research area
+Health research area
+CAMPUS LIFE
+Campus
+hes si you
+ADMINISTRATION
+Rue de l'Industrie 23
+1950 Sion
++41 58 606 85 11
+info@hevs.ch
+NEWSLETTER
+Subscribe to our newsletter
+swiss universities
+valais excellence
+©2021 HES-SO Valais-Wallis - created by iomedia - design by Molk & Jordan
